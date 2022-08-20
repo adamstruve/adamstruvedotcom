@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Adam Struve</title>
+    <link>https://adamstruve.com/blog/</link>
+    <description>Recent content in Blogs on Adam Struve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Aug 2022 08:47:11 +0100</lastBuildDate><atom:link href="https://adamstruve.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://adamstruve.com/blog/my-first-post/</link>
+      <pubDate>Thu, 18 Aug 2022 08:47:11 +0100</pubDate>
+      
+      <guid>https://adamstruve.com/blog/my-first-post/</guid>
+      
+        <description>This is the first blog post. Test</description>
+      
+    </item>
+    
+  </channel>
+</rss>

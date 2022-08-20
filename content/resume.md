@@ -31,7 +31,7 @@ draft: true
 
 ## EDUCATION
 
-- Iowa State University, Ames Iowa — B.A. Art & Design, 2006  Emphasis on 3D Modeling & Animation
+- Iowa State University, Ames Iowa — B.A. Art & Design, 2006 Emphasis on 3D Modeling & Animation
 
 ## SKILLS
 
@@ -60,3 +60,4 @@ draft: true
 - Tailwind CSS
 - Hugo
 - Mail Systems, getting inboxed
+- Figma

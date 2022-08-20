@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://adamstruve.com/</loc>
+    <lastmod>2022-08-18T08:47:11+01:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://adamstruve.com/blog/</loc>
+    <lastmod>2022-08-18T08:47:11+01:00</lastmod>
+  </url><url>
+    <loc>https://adamstruve.com/projects/drawing-idea-app/</loc>
+    <lastmod>2022-08-18T08:47:11+01:00</lastmod>
+  </url><url>
+    <loc>https://adamstruve.com/blog/my-first-post/</loc>
+    <lastmod>2022-08-18T08:47:11+01:00</lastmod>
+  </url><url>
+    <loc>https://adamstruve.com/projects/</loc>
+    <lastmod>2022-08-18T08:47:11+01:00</lastmod>
+  </url><url>
+    <loc>https://adamstruve.com/projects/tube-script/</loc>
+    <lastmod>2020-08-18T08:47:11+01:00</lastmod>
+  </url><url>
+    <loc>https://adamstruve.com/categories/</loc>
+  </url><url>
+    <loc>https://adamstruve.com/resume/</loc>
+  </url><url>
+    <loc>https://adamstruve.com/tags/</loc>
+  </url>
+</urlset>
